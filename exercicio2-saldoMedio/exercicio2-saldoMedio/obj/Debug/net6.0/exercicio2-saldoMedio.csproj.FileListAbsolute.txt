@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\bin\Debug\net6.0\exercicio2-saldoMedio.exe
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\bin\Debug\net6.0\exercicio2-saldoMedio.deps.json
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\bin\Debug\net6.0\exercicio2-saldoMedio.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\bin\Debug\net6.0\exercicio2-saldoMedio.dll
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\bin\Debug\net6.0\exercicio2-saldoMedio.pdb
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.dll
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\refint\exercicio2-saldoMedio.dll
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.pdb
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\exercicio2-saldoMedio.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Projetos\CursoUDEMY-Csharp\projetosUsandoClasses-Csharp\exercicio2-saldoMedio\exercicio2-saldoMedio\obj\Debug\net6.0\ref\exercicio2-saldoMedio.dll
