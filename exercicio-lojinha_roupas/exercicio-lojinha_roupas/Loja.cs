@@ -16,5 +16,6 @@ namespace exercicio_lojinha_roupas
         {
             return numeroPecas * precoPeca;
         }
+
     }
 }
