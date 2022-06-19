@@ -25,7 +25,7 @@ namespace exercicioUsandoList
                 dadosFuncionario.Add(new Funcionario(id, nome, salario));
             }
 
-            Console.Write("Digite o funcionário que terá o salário aumentado: ");
+            Console.Write("Digite o ID do funcionário que terá o salário aumentado: ");
             int idFuncionarioBeneficiado = int.Parse(Console.ReadLine());
 
             Funcionario funcionario = dadosFuncionario.Find(x => x.ID == idFuncionarioBeneficiado);
