@@ -21,11 +21,16 @@
 
 
             //Imprime a matriz
+            string linha = "";
             for (int i = 0; i < matriz.GetLength(0); i++)
             {
+                Console.WriteLine(linha);
+                linha = "_________\n";
+                string separador = " ";
                 for (int j = 0; j < matriz.GetLength(1); j++)
                 {
-                    Console.Write($" {matriz[i, j]} |");
+                    Console.Write(separador + matriz[i, j]);
+                    separador = " | ";
                 }
                 Console.WriteLine(); //Faz ficar em colunas
             }

@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\bin\Debug\net6.0\usandoMatriz.exe
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\bin\Debug\net6.0\usandoMatriz.deps.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\bin\Debug\net6.0\usandoMatriz.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\bin\Debug\net6.0\usandoMatriz.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\bin\Debug\net6.0\usandoMatriz.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\refint\usandoMatriz.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\usandoMatriz.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoMatriz\usandoMatriz\obj\Debug\net6.0\ref\usandoMatriz.dll
