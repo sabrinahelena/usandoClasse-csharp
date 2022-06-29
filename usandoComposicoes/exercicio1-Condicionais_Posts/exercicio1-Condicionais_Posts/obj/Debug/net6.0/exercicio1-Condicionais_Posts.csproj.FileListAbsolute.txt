@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\bin\Debug\net6.0\exercicio1-Condicionais_Posts.exe
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\bin\Debug\net6.0\exercicio1-Condicionais_Posts.deps.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\bin\Debug\net6.0\exercicio1-Condicionais_Posts.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\bin\Debug\net6.0\exercicio1-Condicionais_Posts.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\bin\Debug\net6.0\exercicio1-Condicionais_Posts.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\refint\exercicio1-Condicionais_Posts.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\exercicio1-Condicionais_Posts.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio1-Condicionais_Posts\exercicio1-Condicionais_Posts\obj\Debug\net6.0\ref\exercicio1-Condicionais_Posts.dll
