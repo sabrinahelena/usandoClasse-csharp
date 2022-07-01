@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\bin\Debug\net6.0\exercicio2_Condicionais-Compras.exe
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\bin\Debug\net6.0\exercicio2_Condicionais-Compras.deps.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\bin\Debug\net6.0\exercicio2_Condicionais-Compras.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\bin\Debug\net6.0\exercicio2_Condicionais-Compras.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\bin\Debug\net6.0\exercicio2_Condicionais-Compras.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\refint\exercicio2_Condicionais-Compras.dll
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.pdb
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\exercicio2_Condicionais-Compras.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Projetos\usandoClasse-csharp\usandoComposicoes\exercicio2_Condicionais-Compras\exercicio2_Condicionais-Compras\obj\Debug\net6.0\ref\exercicio2_Condicionais-Compras.dll
