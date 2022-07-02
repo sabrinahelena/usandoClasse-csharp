@@ -20,8 +20,8 @@ namespace exercicio_classe_leitura_dados
             Console.WriteLine("Entre com o preço de um produto: ");
             pessoa.PrecoProduto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Entre com seu último nome, idade e altura (mesma linha separado por espaços simples): ");
-            string[] v = Console.ReadLine().Split(' ');
-            pessoa.UltimoNome = v[0];
+            string[] v = Console.ReadLine().Split(' '); //Uso vetor para armazenar mais de um dado passado pelo usuário e divido os valores pelos espaços em Split
+            pessoa.UltimoNome = v[0]; //Primeiro pedaço separado
             pessoa.Idade = int.Parse(v[1]);
             pessoa.Altura = double.Parse(v[2]);
       

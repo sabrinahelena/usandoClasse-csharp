@@ -16,11 +16,11 @@ namespace exercicio3_conta_corrente
         public double Saque;
 
 
-        public void alterarNome()
+        public void alterarNome() //Método que altera o nome do cliente
         {
             Console.WriteLine("Digite o novo nome: ");
             NomeAlterado = Console.ReadLine();
-            Nome = NomeAlterado;
+            Nome = NomeAlterado; //Joga a variável que armazena o nome digitado em Nome
             Console.WriteLine($"Ok, nome alterado para: {Nome}");
         }
         public void depositar()

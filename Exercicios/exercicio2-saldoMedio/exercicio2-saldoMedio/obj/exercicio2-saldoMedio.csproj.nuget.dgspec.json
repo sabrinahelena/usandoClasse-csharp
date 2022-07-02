@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DiverseDev\\Desktop\\Projetos\\CursoUDEMY-Csharp\\projetosUsandoClasses-Csharp\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj": {}
+    "C:\\Users\\DiverseDev\\Desktop\\Projetos\\usandoClasse-csharp\\Exercicios\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DiverseDev\\Desktop\\Projetos\\CursoUDEMY-Csharp\\projetosUsandoClasses-Csharp\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj": {
+    "C:\\Users\\DiverseDev\\Desktop\\Projetos\\usandoClasse-csharp\\Exercicios\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\CursoUDEMY-Csharp\\projetosUsandoClasses-Csharp\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj",
+        "projectUniqueName": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\usandoClasse-csharp\\Exercicios\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj",
         "projectName": "exercicio2-saldoMedio",
-        "projectPath": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\CursoUDEMY-Csharp\\projetosUsandoClasses-Csharp\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj",
+        "projectPath": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\usandoClasse-csharp\\Exercicios\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\exercicio2-saldoMedio.csproj",
         "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\CursoUDEMY-Csharp\\projetosUsandoClasses-Csharp\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\obj\\",
+        "outputPath": "C:\\Users\\DiverseDev\\Desktop\\Projetos\\usandoClasse-csharp\\Exercicios\\exercicio2-saldoMedio\\exercicio2-saldoMedio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
